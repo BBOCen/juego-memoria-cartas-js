@@ -35,4 +35,4 @@ Contador de movimientos: Lleva un registro del número de intentos realizados.
 
 Temporizador: Cronometra el tiempo que tardas en completar la partida.
 
-Puedes jugar el juego en este enlace: 
+Puedes jugar el juego en este enlace: https://bbocen.github.io/juego-memoria-cartas-js/juego_memoria_cartas_js/
