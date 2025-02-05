@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Memory Game (Memory Card Game) 🎮</h1>
+<h1 align="center">🎮 Memory Game 🎮</h1>
 
 <p align="center">
   This project is an interactive game developed in JavaScript, designed to test your visual and logical memory while providing an engaging and fun experience. The game interface is dynamic, fully generated through code, and optimized for both desktop and mobile devices.
