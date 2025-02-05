@@ -1,3 +1,34 @@
-<h1 align="center">🎮 Minijuego de Memoria (Memory Game) 🎮</h1> <p align="center"> Este proyecto es un juego interactivo desarrollado en JavaScript, diseñado para poner a prueba tu memoria visual y lógica mientras disfrutas de una experiencia atractiva y divertida. La interfaz del juego es dinámica, generada completamente mediante código, y está optimizada tanto para ordenadores como para dispositivos móviles. </p>
-<h2>🚀 Funcionalidades principales</h2> <h3>🔹 Generación dinámica del tablero</h3> <ul> <li><strong>Tablero configurable:</strong> El juego genera una cuadrícula de cartas cuyo tamaño puede ajustarse (4x4, 6x6, etc.), con cartas distribuidas aleatoriamente para garantizar una experiencia única en cada partida.</li> <li><strong>Cartas ocultas:</strong> Cada carta tiene un diseño uniforme al inicio, ocultando su contenido único (pares de imágenes o atributos).</li> </ul> <h3>🔹 Interactividad de las cartas</h3> <ul> <li><strong>Volteo de cartas:</strong> Al hacer clic en las cartas, se revela su contenido. El juego permite voltear un máximo de dos cartas a la vez.</li> <li><strong>Lógica de coincidencia:</strong> Si las cartas coinciden, permanecen descubiertas. Si no lo hacen, se vuelven a ocultar después de un breve intervalo, con animaciones suaves para una experiencia fluida.</li> </ul> <h3>🔹 Gestión del estado del juego</h3> <ul> <li><strong>Verificación de victoria:</strong> El juego detecta cuando todas las cartas han sido descubiertas y muestra un mensaje de felicitación: "¡Has ganado!".</li> <li><strong>Reinicio del juego:</strong> Un botón te permite reiniciar la partida, barajando las cartas y restableciendo el estado del juego. También puedes cambiar el tamaño del tablero antes de empezar una nueva partida.</li> </ul> <h3>🔹 Extras para mejorar la experiencia</h3> <ul> <li><strong>Contador de movimientos:</strong> Lleva un registro de cuántos intentos has realizado durante la partida.</li> <li><strong>Temporizador:</strong> Cronometra el tiempo que tardas en completar el juego, añadiendo un desafío adicional.</li> </ul>
-<h2>🌐 Cómo jugar</h2> Puedes jugar al juego directamente desde tu navegador en este enlace: https://bbocen.github.io/juego-memoria-cartas-js/juego_memoria_cartas_js/
+<h1 align="center">🎮 Memory Game (Memory Card Game) 🎮</h1>
+
+<p align="center">
+  This project is an interactive game developed in JavaScript, designed to test your visual and logical memory while providing an engaging and fun experience. The game interface is dynamic, fully generated through code, and optimized for both desktop and mobile devices.
+</p>
+
+<h2>🚀 Main Features</h2>
+
+<h3>🔹 Dynamic Board Generation</h3>
+<ul>
+  <li><strong>Configurable board:</strong> The game generates a grid of cards whose size can be adjusted (4x4, 6x6, etc.), with cards distributed randomly to ensure a unique experience in each game.</li>
+  <li><strong>Hidden cards:</strong> Each card has a uniform design at the beginning, hiding its unique content (pairs of images or attributes).</li>
+</ul>
+
+<h3>🔹 Card Interactivity</h3>
+<ul>
+  <li><strong>Card flipping:</strong> By clicking on the cards, their content is revealed. The game allows you to flip a maximum of two cards at a time.</li>
+  <li><strong>Matching logic:</strong> If the cards match, they remain uncovered. If they don't, they are flipped back after a brief interval, with smooth animations for a fluid experience.</li>
+</ul>
+
+<h3>🔹 Game State Management</h3>
+<ul>
+  <li><strong>Victory check:</strong> The game detects when all cards have been uncovered and shows a congratulatory message: "You won!"</li>
+  <li><strong>Restart game:</strong> A button allows you to restart the game, shuffling the cards and resetting the game state. You can also change the board size before starting a new game.</li>
+</ul>
+
+<h3>🔹 Extras to Enhance the Experience</h3>
+<ul>
+  <li><strong>Move counter:</strong> Tracks how many attempts you've made during the game.</li>
+  <li><strong>Timer:</strong> Times how long it takes to complete the game, adding an extra challenge.</li>
+</ul>
+
+<h2>🌐 How to Play</h2>
+You can play the game directly from your browser using this link: [Memory Game](https://bbocen.github.io/juego-memoria-cartas-js/juego_memoria_cartas_js/)
