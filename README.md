@@ -31,4 +31,4 @@
 </ul>
 
 <h2>🌐 How to Play</h2>
-You can play the game directly from your browser using this link: [Memory Game](https://bbocen.github.io/juego-memoria-cartas-js/juego_memoria_cartas_js/)
+You can play the game directly from your browser using this link: https://bbocen.github.io/juego-memoria-cartas-js/juego_memoria_cartas_js/
